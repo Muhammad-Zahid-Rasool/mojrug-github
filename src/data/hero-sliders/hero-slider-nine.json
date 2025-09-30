@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Khal Muhammadi",
+    "subtitle": "Afghani Rugs <br>2025 Collection",
+    "image": "/assets/img/slider/slider01.jpg",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "Silk",
+    "subtitle": "Persian Rugs<br>2025 Collection",
+    "image": "/assets/img/slider/slider02.jpg",
+    "url": "/shop-grid-standard"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/product/category-slider/Khal-Muhammadi.jpg",
+    "subtitle": "Afghani Rugs",
+    "title": "Khal Muhammadi",
+    "link": "/Khal-Muhammadi"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/product/category-slider/Bokhara.jpg",
+    "subtitle": "Pakistani Rugs",
+    "title": "Bokhara",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "3",
+    "image": "/assets/img/product/category-slider/Balochi.jpg",
+    "subtitle": "Pakistani Rugs",
+    "title": "Baluchi",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "4",
+    "image": "/assets/img/product/category-slider/Silk.jpg",
+    "subtitle": "Persian Rugs",
+    "title": "Silk",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "5",
+    "image": "/assets/img/product/category-slider/Gabbeh.jpg",
+    "subtitle": "Pakistani Rugs",
+    "title": "Gabbeh",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "6",
+    "image": "/assets/img/product/category-slider/Barjasta.jpg",
+    "subtitle": "Afghani Rugs",
+    "title": "Barjasta",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "7",
+    "image": "/assets/img/product/category-slider/Beljik.jpg",
+    "subtitle": "Pakistani Rugs",
+    "title": "Beljik",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": "8",
+    "image": "/assets/img/product/category-slider/Maliki.jpg",
+    "subtitle": "Pakistani Rugs",
+    "title": "Maliki Kilim",
+    "link": "/shop-grid-standard"
+  }
+]

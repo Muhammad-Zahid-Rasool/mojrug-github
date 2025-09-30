@@ -1,0 +1,67 @@
+[ 
+  
+  {
+    "id": "11",
+    "sku": "KM1211",
+    "name": "Khal Muhammadi 2.5x4 FT Rug No. 1211",
+    "price": 350,
+    "discount": 10,
+    "new": true,
+    "saleCount": 12,
+    "category": "Khal Muhammadi",
+    "tag": "Khal Muhammadi",
+    "color": "red",
+    "size": "2.5x4 FT",
+    "stock": 3,
+    "image": "/assets/img/product/rugs/Khal-Muhammadi/KM1211.jpg",
+    "image1":  "/assets/img/product/rugs/Khal-Muhammadi/KM1211-i.jpg",
+    "image2":  "/assets/img/product/rugs/Khal-Muhammadi/KM1211-ii.jpg",
+    "image3":  "/assets/img/product/rugs/Khal-Muhammadi/KM1211-iii.jpg",
+    "shortDescription": "Khal Mohammadi rugs are Handmade Afghan Rugs. Actually Khal Mohammadi is a person (not a place or region) who developed the red tones found in these rugs. These rugs are very attractive & 100 % wool Rugs.",
+    "fullDescription": "Khal Mohammadi rugs are Handmade Afghan Rugs. Actually Khal Mohammadi is a person (not a place or region) who developed the red tones found in these rugs. These rugs are very attractive & 100 % wool Rugs."
+  },
+  {
+    "id": "12",
+    "sku": "KM1211",
+    "name": "Khal Muhammadi 2.5x4 FT Rug No. 1211",
+    "price": 350,
+    "discount": 10,
+    "new": true,
+    "saleCount": 12,
+    "category": "Silk",
+    "tag": "Silk",
+    "color": "red",
+    "size": "2.5x4 FT",
+    "stock": 3,
+    "image": "/assets/img/product/rugs/Khal-Muhammadi/KM1211.jpg",
+    "image1":  "/assets/img/product/rugs/Khal-Muhammadi/KM1211-i.jpg",
+    "image2":  "/assets/img/product/rugs/Khal-Muhammadi/KM1211-ii.jpg",
+    "image3":  "/assets/img/product/rugs/Khal-Muhammadi/KM1211-iii.jpg",
+    "shortDescription": "Khal Mohammadi rugs are Handmade Afghan Rugs. Actually Khal Mohammadi is a person (not a place or region) who developed the red tones found in these rugs. These rugs are very attractive & 100 % wool Rugs.",
+    "fullDescription": "Khal Mohammadi rugs are Handmade Afghan Rugs. Actually Khal Mohammadi is a person (not a place or region) who developed the red tones found in these rugs. These rugs are very attractive & 100 % wool Rugs."
+  },
+  {
+    "id": "12",
+    "sku": "KM1211",
+    "name": "Khal Muhammadi 2.5x4 FT Rug No. 1211",
+    "price": 350,
+    "discount": 10,
+    "new": true,
+    "saleCount": 12,
+    "category": "Bokhara",
+    "tag": "Bokhara",
+    "color": "red",
+    "size": "2.5x4 FT",
+    "stock": 3,
+    "image": "/assets/img/product/rugs/Khal-Muhammadi/KM1211.jpg",
+    "image1":  "/assets/img/product/rugs/Khal-Muhammadi/KM1211-i.jpg",
+    "image2":  "/assets/img/product/rugs/Khal-Muhammadi/KM1211-ii.jpg",
+    "image3":  "/assets/img/product/rugs/Khal-Muhammadi/KM1211-iii.jpg",
+    "shortDescription": "Khal Mohammadi rugs are Handmade Afghan Rugs. Actually Khal Mohammadi is a person (not a place or region) who developed the red tones found in these rugs. These rugs are very attractive & 100 % wool Rugs.",
+    "fullDescription": "Khal Mohammadi rugs are Handmade Afghan Rugs. Actually Khal Mohammadi is a person (not a place or region) who developed the red tones found in these rugs. These rugs are very attractive & 100 % wool Rugs."
+  }
+ 
+ 
+  
+  
+]
